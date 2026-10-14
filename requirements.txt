@@ -4,3 +4,6 @@ requests
 python-dotenv
 groq
 gunicorn
+streamlit
+groq
+ddgs
